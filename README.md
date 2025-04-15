@@ -1,4 +1,4 @@
-# About Me <img src="compressedgif.gif" style="width: 4rem; height: 4rem;" />
+## About Me <img src="compressedgif.gif" style="width: 4rem; height: 4rem;" />
 
 Heyo, I'm Kaiden! (you might see my username as ka-iden, ka_iden, \_kden, or fl2mexd)  
 My pronouns are He/Him, and I'm currently studying IT at RMIT.  
